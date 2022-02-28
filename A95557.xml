@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mad verse, sad verse, glad verse and bad verse. Cut out, and slenderly sticht together, by John Taylor. Who bids the reader either to like or dislike them, to commend them, or come mend them.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95557</idno>
+            <idno type="STC">Wing T479</idno>
+            <idno type="STC">Thomason E46_13</idno>
+            <idno type="STC">ESTC R22802</idno>
+            <idno type="EEBO-CITATION">99871833</idno>
+            <idno type="PROQUEST">99871833</idno>
+            <idno type="VID">154499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 8:E46[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mad verse, sad verse, glad verse and bad verse. Cut out, and slenderly sticht together, by John Taylor. Who bids the reader either to like or dislike them, to commend them, or come mend them.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>A verse account of Taylor's arrest, and ultimate discharge, in London for printing pamphlets against the Parliament.</note>
+                  <note>Imprint from Madan.</note>
+                  <note>Annotation on Thomason copy: "May 10th Oxford 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taylor, John, 1580-1653.</term>
+               <term>Freedom of the press --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:154499:1" rendition="simple:additions"/>
+            <head>MAD VERSE, SAD VERSE, GLAD VERSE and Bad VERSE.</head>
+            <byline>Cut out, and ſlenderly ſticht together, By JOHN TAYLOR. Who bids the Reader either to like or diſlike them, to Commend them, or Come <hi>Mend them.</hi>
+            </byline>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>May 10<hi rend="sup">th</hi> Oxford 1644</add>
+                  </date>
+               </dateline>
+            </opener>
+            <lg>
+               <l>I Weeping ſing the maddeſt mad Rebellion,</l>
+               <l>That ever Story told, or Tongue can tell ye on:</l>
+               <l>The Barbarous Wars of th' Heathen <hi>Gothes,</hi> and <hi>Vandalls,</hi>
+               </l>
+               <l>Did never make their names ſuch Odious Scandalls:</l>
+               <l>The <hi>Turkes,</hi> the <hi>Jewes,</hi> the <hi>Canniballs</hi> and <hi>Tartars,</hi>
+               </l>
+               <l>Ne're kept ſuch wicked, Rude, unruly Quarters.</l>
+               <l>
+                  <hi>Jeruſalems Eleazer, Iohn</hi> and <hi>Simon,</hi>
+               </l>
+               <l>Did ne're yeeld Poet baſer ſtuffe to Rime on.</l>
+               <l>Not bloody <hi>Sylla,</hi> or conſuming <hi>Marius,</hi>
+               </l>
+               <l>Into ſo many miſchiefes could e're carry us;</l>
+               <l>The <hi>Roman</hi> and th' <hi>Jmperiall Guelphes</hi> and <hi>Gibellins,</hi>
+               </l>
+               <l>Vnto our <hi>Engliſh</hi> Rebells are but <hi>Quiblins.</hi>
+               </l>
+               <l>Not <hi>Munſters Iohn a Leyd,</hi> or <hi>Knipperdoling,</hi>
+               </l>
+               <l>Did ever uſe ſuch Pilling and ſuch Poleing;</l>
+               <l>Nor was their Cheating or their Hare-braind trouble like</l>
+               <l>As ours, (rais'd by the faithleſſe <hi>Faith</hi> call'd <hi>Publique.</hi>)</l>
+               <l>The Royall twain, <hi>Lancaſtrians,</hi> and <hi>Yorkiſts,</hi>
+               </l>
+               <l>Were ne're ſo mad as thoſe Cornuted Forkiſts.</l>
+               <pb n="2" facs="tcp:154499:2"/>
+               <l> The Heard of all the Councell (called Common)</l>
+               <l>Hath ſhewed ſuch wiſedome, as was ſeen by no man,</l>
+               <l>And many of the Rich and Reverend Aldermen,</l>
+               <l>(Saving their Beards) in wit were never Balder-men.</l>
+               <l>The Citizens of all Trades, (poor taine Wedgeons)</l>
+               <l>Were hardly more in number, then Religions,</l>
+               <l>That one may ſay of <hi>London,</hi> what a Towne iſt,</l>
+               <l>Is it quite Metamorphos'd, and turn'd <hi>Browniſt,</hi>
+               </l>
+               <l>Or ſhivered into Sects? alas, how apt iſt</l>
+               <l>To be a Familiſt, or <hi>Anabaptiſt!</hi>
+               </l>
+               <l>And laſt of all, (and which of all the worſt is)</l>
+               <l>To be Rebellious, which (of all) accurſt is</l>
+               <l>The two pretended Houſes at <hi>Westminſter</hi>
+               </l>
+               <l>Have made a ſtirre, as there hath never bin ſtirre</l>
+               <l>To equall it, and with Religions Mantle</l>
+               <l>They Rifle <hi>England,</hi> by patch, piece and Cantle.</l>
+               <l>The Documents of <hi>Burton, Prinne</hi> and <hi>Baſtwick</hi>
+               </l>
+               <l>Inſpires the People mindes, and Braines fantaſtick,</l>
+               <l>Whilſt the Committee cloſe, or cloſe Committee</l>
+               <l>Makes many Thouſands ſing a dolefull Dittie;</l>
+               <l>Where daily <hi>feares</hi> are ſtamp'd, and new Coynd Iealouſies</l>
+               <l>For King and Kingdomes ſpoyle, both Fire, and Bellowes is.</l>
+               <l>Their Whirlegigges, their <hi>Vanes</hi> and <hi>Haſlerigges,</hi>
+               </l>
+               <l>Whoſe wiſedomes are approv'd, (like <hi>Tarletons</hi> lygges.)</l>
+               <l>
+                  <hi>Mild-may</hi> that monſter never be received,</l>
+               <l>That <hi>Judas</hi> like his Maiſters truſt deceived,</l>
+               <l>And let that <hi>Pye</hi> within the Oven be burned,</l>
+               <l>That 'gainſt his Maker is a Rebell turned.</l>
+               <l>Let <hi>Say</hi> be leſſe eſteem'd then rotten <hi>Buckram</hi>
+               </l>
+               <l>And <hi>Holland</hi> ſcorn'd and ſtink like louſie <hi>Lockram.</hi>
+               </l>
+               <l>May <hi>Deering,</hi> a rare Gem, a deare Ring be he,</l>
+               <l>And <hi>(Circle)</hi> turn'd, at the Triangle Tree be.</l>
+               <l>And I may ſay of thee, O <hi>London, London,</hi>
+               </l>
+               <l>What hath thy ſword and ſhield, thy Pike and Gun done,</l>
+               <l>O what hath many a Mothers wicked ſon done</l>
+               <l>But made their Magazen of miſchiefe <hi>London.</hi>
+               </l>
+               <l>Thrice happy had it been for our Tranquillitie,</l>
+               <l>If th' Authors of this damned Incivilitie,</l>
+               <pb n="3" facs="tcp:154499:2"/>
+               <l> Had been a little checkt by <hi>Gregory Brandon,</hi>
+               </l>
+               <l>With every one a Hempen twiſted Band on.</l>
+               <l>Becauſe I wrote ſome Pamphlets, that were printed</l>
+               <l>In hope thereby their madneſſe might be ſtinted.</l>
+               <l>For which my kindneſſe they were ſtill ingratefull,</l>
+               <l>And every day (with troubles) fild my Pate full,</l>
+               <l>Abuſing my ſincere and good Intentions</l>
+               <l>With foule prejudicate and falſe Inventions.</l>
+               <l>For ſince the time that firſt I underſtood men</l>
+               <l>I ne're writ any thing to anger good men;</l>
+               <l>But I have laſht at Noſe-wiſe Scripture Picklers,</l>
+               <l>At Separatiſts, and lawleſſe Conventicklers,</l>
+               <l>Who are this Kingdomes waſting Maledictions,</l>
+               <l>The Kings, the Churches, and the Lands Afflictions.</l>
+               <l>They ſaid I was a Villaine, and moſt fervent</l>
+               <l>In Roguery, for I was the Kings ſworne Servant:</l>
+               <l>They did ſo farre deteſt me, and abhorre me</l>
+               <l>They cauſed a Meſſenger to be ſent for me,</l>
+               <l>He uſed me kindly for which cauſe here I name</l>
+               <l>The man (a wonder) and men call him <hi>Binehame.</hi>
+               </l>
+               <l>He ſaid mine Enemies were full of malice</l>
+               <l>(Wider from truth then <hi>Dover</hi> is from <hi>Callice;</hi>)</l>
+               <l>Their fowle Complaints (quoth he) are ſcimble ſcamble,</l>
+               <l>Mere Froth and Vapour, yet we two muſt amble</l>
+               <l>Before the cloſe Committees great Tribunall,</l>
+               <l>(Whoſe Orders have put Order out of Tune all.)</l>
+               <l>To Merchant-Taylors-Hall, (as I remember)</l>
+               <l>He brought me, neare the ending of <hi>November,</hi>
+               </l>
+               <l>The yeare of ſixteene hundred forty and two</l>
+               <l>Whereas falſe Accuſations I did ſtand to,</l>
+               <l>Aethiopian <hi>Corbet, Iſaack</hi> high and mighty</l>
+               <l>Look'd grim, their very countenance would fright ye.</l>
+               <l>They charg'd me with ſuch words, that I had ſpoken,</l>
+               <l>Which had I ſpoke, my Neck they would have broken;</l>
+               <l>That <hi>Pym, Kimbolton, Haſlerigge, Strode, Hampden</hi>
+               </l>
+               <l>And <hi>Hollis</hi> (Rebells which the learned <hi>Campden,</hi>
+               </l>
+               <l>Nor <hi>Stow, Howes, Speed,</hi> old <hi>Fabian, Cooper, Grafton</hi>
+               </l>
+               <l>In all their Chronicles, they never left one</l>
+               <pb n="4" facs="tcp:154499:3"/>
+               <l> For Teaſon, with thoſe ſix to be compared,</l>
+               <l>Or dar'd to do, the like as they have dared.)</l>
+               <l>They ſaid I ſaid, thoſe ſix a curſed Crew were,</l>
+               <l>That they to God, King, Kingdom, never true were,</l>
+               <l>That they were Rogues, and Theeves, full of oppreſſion,</l>
+               <l>Rebells, and Traitors, for which foul Tranſgreſſion</l>
+               <l>Becauſe they all grew rich by Robbing others,</l>
+               <l>Made Sireleſſe Sons, So as Sireleſſe, Sonleſſe Mothers,</l>
+               <l>By Rapine bringing Thouſands unto Beggery,</l>
+               <l>For which they all deſerv'd reward from <hi>Gregory.</hi>
+               </l>
+               <l>Theſe dangerous accuſations I deny'd all,</l>
+               <l>My conſcience knew, that they from Truth were wide all,</l>
+               <l>And that my 'accuſers, that ſought my diſgrace there,</l>
+               <l>Not one of them did dare to ſhow his face there.</l>
+               <l>Vpon which anſwer they did ſtraight acquit me,</l>
+               <l>Yet to the Meſſenger they did Commit me;</l>
+               <l>But he ſpake for me, I did humbly wooe them,</l>
+               <l>He ſaid (at any time) I ſhould come to them:</l>
+               <l>The honeſt Meſſenger gat me diſcharged,</l>
+               <l>And to the Tavern we went both enlarged,</l>
+               <l>Where <hi>I</hi> did give him thanks in Sack and Claret,</l>
+               <l>And for his paines had but a ſmall fee for it.</l>
+               <l>My Raſcall Enemies did dayly watch me,</l>
+               <l>And vow'd to do me miſchiefe if they catch me:</l>
+               <l>To Murder me, they many times way-laid me,</l>
+               <l>And near the <hi>Guild-Hall,</hi> once had like t'have payd me,</l>
+               <l>For as my ſelfe, and two more honeſt men was,</l>
+               <l>One Quart at three-tons Tavern, drinking then was,</l>
+               <l>The curſed Crew, (more then ſix ſcore to'th hundred)</l>
+               <l>Did ſwear tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Limb from Limb I ſhould be ſundred,</l>
+               <l>My friends and I Amaz'd, did much admire on,</l>
+               <l>Wherefore the Houſe ſo Rudely they Inviron,</l>
+               <l>But I perceiving t'was no time to dally,</l>
+               <l>Slipt through a ſmoke ſhop, in t'a narrow Alley,</l>
+               <l>And ſo into a ſtreet men call <hi>Cat-Eaten,</hi>
+               </l>
+               <l>And by that meanes, ſcap'd more then being Beaten,</l>
+               <l>My Wife lay long ſick, many troubles prickt me,</l>
+               <l>Neceſſity did divers wayes Afflict me.</l>
+               <pb n="5" facs="tcp:154499:3"/>
+               <l> The King (my Maiſter) juſtly was offended,</l>
+               <l>And on his Service my Eſtate depended,</l>
+               <l>He, and His Royall Queen, (my gracious Miſtris)</l>
+               <l>Were driven from us, His Servants left in diſtreſſe;</l>
+               <l>Where we (poor fellows) were deſpiſ'd and hated,</l>
+               <l>And to give Money 'gainſt our Maiſter Rated:</l>
+               <l>But I, with others, crav'd to be excuſed,</l>
+               <l>Some give, ſome gave not, flatly I refuſed,</l>
+               <l>My King and's Father, gave me cloath and Wa<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>Which Motive ſure His Servants all ingages:</l>
+               <l>But too too many a Raſcall (worſe then <hi>Iudas,</hi>)</l>
+               <l>Have given the Rebells Money like a Lewd Aſse.</l>
+               <l>The generation of abhorred Vipers,</l>
+               <l>The Coyn-Collectors, moſt inſatiate Gripers,</l>
+               <l>Swore to return my name, I feard what may come,</l>
+               <l>And left my wife a dying, and away come.</l>
+               <l>My wrongs, my griefes, and ſickneſse ſo had wearied her,</l>
+               <l>Shee dy'd, they ſold my goods, and fairly buried her.</l>
+               <l>Th'uſurping <hi>Jſaack</hi> (Major) did hate me deadly,</l>
+               <l>But yet I got his paſſe (by meere Chaunce-Medly:)</l>
+               <l>I tooke a Boate, and up to <hi>Windſor</hi> went I,</l>
+               <l>Whereas of Rebells (of all ſorts) were plenty,</l>
+               <l>Some great Commanders, who were Tradeſemen broaken,</l>
+               <l>Grown rich with Plunder, late, ſcarſe worth a Token;</l>
+               <l>Some Cobling Preachers, ſome perfidious Nobles,</l>
+               <l>(The Church, the King and Kingdomes curſed troubles,)</l>
+               <l>Beſides a crew of baſe Knaves, <hi>Omnium Gatherum,</hi>
+               </l>
+               <l>Shuffle 'em together, and the Divell father 'um;</l>
+               <l>One of their Generall <hi>Eſſex</hi> Life-Guard was there</l>
+               <l>Who ſtruck me, as I up the ſtreet did paſſe there,</l>
+               <l>He calld me pretty ſurnames, Rogue and Traytor,</l>
+               <l>Malignant, and the Parliaments great hater,</l>
+               <l>And Spy, and to the Kings uſe, then that I would</l>
+               <l>Betray the Town and Caſtle both, if I could.</l>
+               <l>That villaine had a mighty mind to baſt me,</l>
+               <l>But I, from him did to the Caſtle haſt me,</l>
+               <l>Where <hi>Peterboroughs</hi> Earle, and the Lord <hi>Rochfort,</hi>
+               </l>
+               <l>(Pardon my Rime good Reader I muſt botch for't)</l>
+               <pb n="6" facs="tcp:154499:4"/>
+               <l> They knew me, and did entertaine me friendly</l>
+               <l>And askt at what place did my journies end lye,</l>
+               <l>I ſaid to <hi>Abingdon,</hi> and that to <hi>Henly</hi>
+               </l>
+               <l>I would go that night, if I might paſſe cleanly,</l>
+               <l>Or ſafely from my Lord of <hi>Eſſex</hi> Catives</l>
+               <l>Whoſe carriage ſhewed, they were not <hi>Englands</hi> Natives.</l>
+               <l>The Noble Rebells kindly did diſcard me</l>
+               <l>And cauſed ſome Souldiers through their Guards to guard me,</l>
+               <l>And ſo I <hi>Windſor</hi> left, (what can be more ſaid)</l>
+               <l>And weary went to <hi>Henly,</hi> as aforeſaid.</l>
+               <l>But when to <hi>Maidenhead</hi> I was advanced</l>
+               <l>Vpon three Ragged Rebells there I chanced,</l>
+               <l>Who all to <hi>Henly,</hi> company did beare me</l>
+               <l>And in the mid-way, (in a wood) did feare me.</l>
+               <l>For, in the Thicket of tall <hi>Oakes</hi> and <hi>Beeches</hi>
+               </l>
+               <l>Me thought I heard 'em mutter ſcurvy ſpeeches,</l>
+               <l>One ſaid, old man, the Coat you now are wearing</l>
+               <l>Is much too hot, and heavy for your bearing,</l>
+               <l>The ſecond ſpide a bag, wherein I carried</l>
+               <l>Things for my uſe, (as my occaſions varied)</l>
+               <l>Theſe two demanded, and I durſt not grudge it</l>
+               <l>But ſtrait delivered them my Coat and Budget.</l>
+               <l>The third man (which did make their number triple)</l>
+               <l>Offered his ſervice, like a kind diſciple,</l>
+               <l>Quoth he, of that man you to much have ſhar'd him,</l>
+               <l>And of his goods and moveables have par'd him,</l>
+               <l>Shall I that of your Company am third man</l>
+               <l>Have nothing, ſhall I be a baſe abſurd man.</l>
+               <l>My friend, quoth I, all is not quite bereft me</l>
+               <l>My ſelfe is yet mine owne, my ſelfe is left me,</l>
+               <l>I'm weary, carry me, they have my cloathing</l>
+               <l>And thou ſhalt carry me, that's more then nothing.</l>
+               <l>With that they laught outright, I faining ſmiled</l>
+               <l>And ſo the tedious way with talke beguiled.</l>
+               <l>My leaſh of Raſcalls, were mad Blades, (right <hi>Bilboes</hi>)</l>
+               <l>True tatter'd Rogues, in breech, ſhirts, ſkirts and elboes,</l>
+               <l>They ſung, and danc'd the Morris, like maide <hi>Marrian</hi>
+               </l>
+               <l>And ſweat and ſtunk, as ſweet as ſugar Carrion,</l>
+               <pb n="7" facs="tcp:154499:4"/>
+               <l> I mus'd, if they were pleas'd to jeere and fob me,</l>
+               <l>Or if they meant to jeſt with me or Rob me:</l>
+               <l>But they to me prov'd Rebells, with ſome reaſon</l>
+               <l>They had not learn'd their Grammar Rules of Treaſon,</l>
+               <l>They kindly brought me to a wholſome Alehouſe,</l>
+               <l>Where merrily we drank like foure good fellowes,</l>
+               <l>With ſongs, and tales, and now and then a ſtory</l>
+               <l>And 'ere we fell a ſleep, we ſung <hi>John Dorrye.</hi>
+               </l>
+               <l>They gave me all, which they from me had got then,</l>
+               <l>Deceiving me, cauſe they deceiv'd me not then;</l>
+               <l>I left both them and <hi>Henly,</hi> and away I</l>
+               <l>To <hi>Abingdon,</hi> by ſhutting in of day I</l>
+               <l>Came to the <hi>Kings Head,</hi> (my owne Brothers houſe,) and</l>
+               <l>Of welcomes, I had ſome part of a thouſand.</l>
+               <l>'Twas neare the time of <hi>Marches</hi> Equinoctiall,</l>
+               <l>J had good meat, and ſuch drink as would fox ye all:</l>
+               <l>Ther's many Barrell full, turn'd Turvey Topſie</l>
+               <l>And many a But hath dropt away the dropſie,</l>
+               <l>That there's good fare, and entertainment proper</l>
+               <l>For Love, for Gold, for Silver, and for Copper.</l>
+               <l>At <hi>Abingdon,</hi> I ſtaid almoſt a fortnight,</l>
+               <l>The dayes wax'd long, (and each day had a ſhort night.)</l>
+               <l>Much about Eaſter time, I came to <hi>Oxford,</hi>
+               </l>
+               <l>Where are ſome few knaves, and ſome Mizers Fox-furd,</l>
+               <l>In <hi>Christ-Church</hi> Garden, then a gladſome ſight was</l>
+               <l>My Sover<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igne Lord, and many a Peere and Knight was,</l>
+               <l>The Hopefull Prince, and <hi>James Dux Eboracenſis</hi>
+               </l>
+               <l>(Whom God defend from Rebells falſe pretences)</l>
+               <l>The Sunne of Sacred Majeſty did fruſtrate</l>
+               <l>My former griefes, and all my joyes Illuſtrate,</l>
+               <l>His gratious Eye, did ſee where I did ſtand ſtrait</l>
+               <l>He came to me, puts forth his Royall hand ſtrait,</l>
+               <l>Which on my knees, I humbly kneeld and kiſt it,</l>
+               <l>I rather had left all I had, then miſt it.</l>
+               <l>But now at <hi>Oxford,</hi> I was ſafe arrived</l>
+               <l>How to be well imployed my Braines contrived,</l>
+               <l>My purſe was turn'd a <hi>Browniſt</hi> or a <hi>Round-head,</hi>
+               </l>
+               <l>For all the Croſſes in it, were confounded,</l>
+               <pb n="8" facs="tcp:154499:5"/>
+               <l> To ſome Imployment I my ſelfe muſt ſettle.</l>
+               <l>Fire muſt be had to boyle the Pot and Kettle.</l>
+               <l>Then by the Lords Commiſſioners, and alſo</l>
+               <l>By my good King, (whom all true Subjects call ſo)</l>
+               <l>
+                  <hi>I</hi> was commanded with the Water-Baylie</l>
+               <l>To ſee the Rivers clenſed, both nights and dayly.</l>
+               <l>Dead Hogges, Dogges, Cats, and well flayd Carryon Horſes,</l>
+               <l>Their noyſom Corpes ſoyld the Waters Courſes:</l>
+               <l>Both ſwines and Stable dunge, Beaſts guts and Garbage,</l>
+               <l>Street durt, with Gardners weeds and Rotten Herbage.</l>
+               <l>And from thoſe Waters filthy putrifaction,</l>
+               <l>Our meat and drink were made, which bred Jnfection.</l>
+               <l>My ſelfe and partner, with coſt paines and travell,</l>
+               <l>Saw all made clean, from Carryon, Mud, and Gravell:</l>
+               <l>And now and then was puniſht a Delinquent,</l>
+               <l>By which good meanes away the filth and ſtink went.</l>
+               <l>Beſides at all commands, we ſerv'd all warrants,</l>
+               <l>To take Boats for moſt neceſſary errants,</l>
+               <l>To carry Ammunition, food and fewell,</l>
+               <l>(The laſt of which laſt Winter was a Jewell.)</l>
+               <l>Poor Souldiers that were Maim'd, or ſick, or wounded</l>
+               <l>By the curſt meanes of ſome Rebellious Roundhead;</l>
+               <l>To carry and recarry them our care was,</l>
+               <l>To get them Boats as cauſe both here and there was.</l>
+               <l>Thus have <hi>I</hi> been imployd, beſides my trade is,</l>
+               <l>To write ſome Pamphlets, to pleaſe Lords and Ladies,</l>
+               <l>With Gentlemen or others that will read them,</l>
+               <l>Whoſe wits (I hope) not over much will heed them:</l>
+               <l>To all theſe ſervices I am immediate</l>
+               <l>Obedient, willing, at occaſions ready at.</l>
+               <l>My Riches is my Lame Legge, let the blame lye</l>
+               <l>Vpon that Legge, becauſe I have writ Lamelye.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154499:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
